@@ -38,3 +38,7 @@ Imagine you order a pizza. If the pizzeria is in your city, your pizza arrives h
 ## **Summary**
 
 A CDN is the invisible delivery network that ensures you get digital content quickly, reliably, and securely, wherever you are. It’s the reason your favorite websites and apps feel fast and responsive-even when millions of others are using them at the same time.
+
+
+## **Reference**
+* **Youtube:-** https://www.youtube.com/watch?v=Y21OR1OPC9A&ab_channel=TechWithTim
