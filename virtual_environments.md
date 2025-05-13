@@ -128,3 +128,6 @@ Then (pip) will find in the file requirement.txt and start installing Packages.
 * Now I will Create a Virtual Environmnet inside this Directory so it's alongside of my Python File
 * Now it is a common practice to call it **(env)** or **(venv)**
 * If you don't need it anymore you can delete it anytime
+
+# **Reference**
+**YouTube:-**[Virtual Environmnet Tutorial](https://www.youtube.com/watch?v=Y21OR1OPC9A&t=103s&ab_channel=TechWithTim)
